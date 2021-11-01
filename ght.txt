@@ -1,0 +1,4 @@
+git is version contrl system
+Branch:if you want to add new feature to your 
+project but have some doughts to add in main
+project you create branches you can merge the branch.
